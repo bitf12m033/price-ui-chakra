@@ -33,7 +33,7 @@ export function moneyGuaranteeIcon({ ...props }) {
       <path
         d="M23 43C23 43 3 35 3 9L23 3L43 9C43 35 23 43 23 43Z"
         stroke="#CBD5E0"
-        strokewidth="{4.8}"
+        strokeWidth="{4.8}"
         strokemiterlimit="{10}"
         strokelinecap="square"
       />
